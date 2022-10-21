@@ -16,13 +16,13 @@ Sebagai seorang yang sedang berusaha menjadi *thalabul ilmi* yang menjalankan su
 <div class="dalil">
   قَيِّدُوا الْعِلْمَ بِالْكِتَابِ
   <p>
-  “Ikatlah ilmu dengan dengan menulisnya.” (Silsilah Ash-Shahiihah no. 2026 <a href='https://muslim.or.id/27761-catatlah-ilmu-ketika-di-majelis-ilmu.html'>[muslim.or.id]</a>).
+  “Ikatlah ilmu dengan dengan menulisnya.” (Silsilah Ash-Shahihah no. 2026 <a href='https://muslim.or.id/27761-catatlah-ilmu-ketika-di-majelis-ilmu.html'>[muslim.or.id]</a>).
   </p>
 </div>
 
 <!-- Alhamdulillah, segala puji bagi Allah yang atas ijin Nya kita bisa dengan mudah mencatat dan mengulang-ulang materi yang sudah diberikan melalui berbagai teknologi yang kita rasakan saat ini.  -->
 
-Insyaallah, saya mencoba menulis catatan ini selengkap-lengkapnya, kata per kata, sesuai dengan apa yang beliau, Ustadz Abdullah Roy حفظه لله تعالى, sampaikan, karena saya، yang orang awam ini, bisa salah dalam memaknai apa yang Beliau sampaikan jika hanya saya tulis sebagai rangkuman.
+Insyaallah, saya mencoba menulis catatan ini selengkap-lengkapnya, kata per kata, sesuai dengan apa yang beliau, Ustadz Abdullah Roy حفظه لله تعالى, sampaikan, karena saya، yang orang awam ini, bisa salah dalam memaknai apa yang beliau حفظه لله تعالى sampaikan jika hanya saya tulis sebagai rangkuman.
 
 <!-- Mohon maaf sekiranya ada tulisan yang tidak sesuai dengan apa yang beliau, Ustadz Abdullah Roy حفظه لله تعالى, sampaikan dalam audio (yang juga saya lampiran disetiap postnya), yang itu adalah murni kesalahan saya dalam menulisnya. -->
 
