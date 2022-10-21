@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: https://github.com/parmuarip
+projects_url: https://github.com/hsi-parmuarip/hsi-parmuarip.github.io
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -14,10 +14,12 @@ direction: ltr
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
 nav:
-  home: /
-  about: /about/
-  HSI: /categories/HSI/
-  projects: https://github.com/parmuarip
+  Home: /
+  HSI S1: categories/HSI/Silsilah-Ilmiyah-1/
+  HSI S2: categories/HSI/Silsilah-Ilmiyah-2/
+  HSI S3: categories/HSI/Silsilah-Ilmiyah-3/
+  # about: /about/
+  # HSI: /categories/HSI/
 
 
 # Links to your social media accounts.
@@ -25,7 +27,7 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: https://github.com/parmuarip
+  github: https://github.com/hsi-parmuarip
   linkedin: https://www.linkedin.com/in/lutfi-parmuarip-8715bbb7/
   mail: mailto:parmuarip@gmail.com
 
@@ -39,7 +41,7 @@ tags_overview: false
 #   - post_count: whether to show only the x most recent posts.
 #   - sort_updated: sort posts by last modification date instead of creation date.
 posts_overview:
-  show_all_posts: false
+  show_all_posts: true
   post_count: 5
   sort_updated: false
 
@@ -76,11 +78,11 @@ copyright:
 #   - gravatar: whether to use your Gravatar as the logo
 #   - grayout: whether to enable a hover effect on the logo
 logo:
-  enabled: true
+  enabled: false
   width: 50
   height: 50
   url: /images/logo.png
-  gravatar: true
+  gravatar: false
   grayout: true
 
 # Customize the favicons.
@@ -113,8 +115,7 @@ favicon:
 colorscheme: white
 
 # Maximal width of the page in rem units.
-page_width: 50
-
+page_width: 40
 
 ##############################################################################
 # Miscellaneous

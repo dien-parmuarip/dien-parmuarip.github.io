@@ -4,7 +4,7 @@ tags: []
 categories:
   - HSI
   - Silsilah Ilmiyah 2
-date: 2022-10-03
+date: 2022-10-03 00:00:00
 ---
 <div class="dalil">
   السلام عليكم ورحمة الله وبركاته
