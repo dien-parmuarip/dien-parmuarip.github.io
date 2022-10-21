@@ -6,7 +6,7 @@ categories:
   - Silsilah Ilmiyah 3
 date: 2022-10-21 00:00:00
 ---
-<audio controls="" src="https://docs.google.com/uc?export=open&id="></audio>
+<audio controls="" src="https://docs.google.com/uc?export=open&id=1-ZAQrS8hQY5Y1dPnCLtSePF4_wiUOdIF"></audio>
 
 <div class="dalil">
   السلام عليكم ورحمة الله وبركاته
