@@ -576,7 +576,7 @@ body {
   }
 }
 .max-width {
-  max-width: 50rem;
+  max-width: 40rem;
 }
 @media (max-width: 480px) {
   .px3 {
@@ -1305,7 +1305,6 @@ article .content .caption {
 }
 @media (min-width: 39rem) {
   #footer {
-    display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
