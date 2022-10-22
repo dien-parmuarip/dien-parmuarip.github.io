@@ -10,7 +10,7 @@ date: 2020-10-17
   الحمد لله والصلاة والسلام على رسول اللَّهُ وعلى آله وصحبه أجمعين
 </div>
 
-Blog ini adalah catatan pribadi yang saya tulis selama mengikuti kelas [HSI Online](https://edu.hsi.id/) oleh Ustadz Abdullah Roy حفظه لله تعالى sebagai bagian dari angkatan HSI 222 tahun 2022.
+Blog ini adalah catatan pribadi yang saya tulis selama mengikuti kelas [HSI (Halaqah Sisilah Ilmiyyah)](https://edu.hsi.id) oleh Ustadz [Dr. Abdullah Roy, M.A.](https://abdullahroy.com) حفظه لله sebagai bagian dari angkatan HSI 222 tahun 2022.
 
 Sebagai seorang yang sedang berusaha menjadi *thalabul ilmi* yang menjalankan sunnah Rasulullah ﷺ, ikhtiyar saya adalah dengan menulisnya, seperti yang Beliau ﷺ sabdakan,
 <div class="dalil">

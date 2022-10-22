@@ -2,8 +2,7 @@ title: 'SILSILAH TEMPLATE '
 author: dari Ustadz Abdullah Roy حفظه لله تعالى
 tags: []
 categories:
-  - HSI
-  - Silsilah Ilmiyah
+  - Silsilah Ilmiyyah
 date: 2022-10-08 00:00:00
 ---
 <audio controls="" src="https://docs.google.com/uc?export=open&id="></audio>
