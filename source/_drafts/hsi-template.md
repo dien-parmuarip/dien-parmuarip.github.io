@@ -5,7 +5,7 @@ categories:
 - HSI
 - Silsilah 
 - Halaqah 
-date: 2022-10-08 00:00:00
+date: 2022-10-08
 ---
 <audio controls="" src="https://docs.google.com/uc?export=open&id="></audio>
 
