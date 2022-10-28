@@ -1,8 +1,10 @@
-title: 'SILSILAH TEMPLATE '
-author: dari Ustadz Abdullah Roy حفظه لله تعالى
-tags: []
+code: S1H1
+title :
+author: dari Ustadz Abdullah Roy حفظه لله
 categories:
-  - Silsilah Ilmiyyah
+- HSI
+- Silsilah 
+- Halaqah 
 date: 2022-10-08 00:00:00
 ---
 <audio controls="" src="https://docs.google.com/uc?export=open&id="></audio>

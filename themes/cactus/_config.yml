@@ -15,9 +15,10 @@ direction: ltr
 # languages/*.yml
 nav:
   Home: /
-  HSI S1: categories/Silsilah-Ilmiyyah-1/
-  HSI S2: categories/Silsilah-Ilmiyyah-2/
-  HSI S3: categories/Silsilah-Ilmiyyah-3/
+  S1: categories/HSI/Silsilah-1/
+  S2: categories/HSI/Silsilah-2/
+  S3: categories/HSI/Silsilah-3/
+  S4: categories/HSI/Silsilah-4/
   Archives: /archives/
   # HSI: /categories/HSI/
 
