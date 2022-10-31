@@ -71,8 +71,6 @@ Faedah: Meminta pada Allah kebaikan di hari ini dan kebaikan sesudahnya, juga ag
 
 “Ya Allah, dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu petang. Dengan rahmat dan pertolongan-Mu kami hidup dan dengan kehendak-Mu kami mati. Dan kepada-Mu kebangkitan (bagi semua makhluk).” (Dibaca 1 x)[4]
 
-Membaca Sayyidul Istighfar
-
 <br>
 <div class="dalil"  style="border-top:1px solid grey">
 <br>
@@ -206,5 +204,47 @@ Faedah: Nabi shallallahu ‘alaihi wa sallam mengatakan pada Juwairiyah bahwa dz
 </div>
 
 “Aku memohon ampun kepada Allah dan bertobat kepada-Nya.” (Dibaca 100 x dalam sehari)[18]
+
+<br>
+<div style="border-top:1px solid grey">
+<br>
+
+<p style="font-size:10px">
+[1] HR. Al Hakim (1: 562). Syaikh Al Albani menshahihkan hadits tersebut dalam Shahih At Targhib wa At Tarhib no. 655.
+<br>
+[2] HR. Abu Daud no. 5082, Tirmidzi no. 3575. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini hasan.
+<br>
+[3] HR. Muslim no. 2723. Lihat keterangan Syarh Hisnul Muslim, hal. 161.
+<br>
+[4] HR. Tirmidzi no. 3391 dan Abu Daud no. 5068. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini shahih.
+<br>
+[5] HR. Bukhari no. 6306.
+<br>
+[6] HR. Abu Daud no. 5069. Al Hafizh Abu Thohir mengatakan bahwa hadits ini hasan.
+<br>
+[7] HR. Abu Daud no. 5074 dan Ibnu Majah no. 3871. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini shahih.
+<br>
+[8] HR. Tirmidzi no. 3392 dan Abu Daud no. 5067. Al Hafizh Abu Thohir mengatakan bahawa sanad hadits ini shahih. Adapun kalimat terakhir (وَأَنْ أَقْتَرِفَ عَلَى نَفْسِيْ سُوْءًا أَوْ أَجُرُّهُ إِلَى مُسْلِمٍ) adalah tambahan dari riwayat Ahmad 2: 196. Dikomentari oleh Syaikh Syu’aib Al Arnauth bahwa hadits tersebut shahih dilihat dari jalur lainnya (shahih lighoirihi).
+<br>
+[9] HR. Abu Daud no. 5088, 5089, Tirmidzi no. 3388, dan Ibnu Majah no. 3869. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini hasan.
+<br>
+[10] HR. Abu Daud no. 5072, Tirmidzi no. 3389. Al Hafizh Abu Thohir mengatakan bahwa hadits ini hasan.
+<br>
+[11] HR. Ibnu As Sunni dalam ‘Amalul Yaum wal Lailah no. 46, An Nasai dalam Al Kubro (381/ 570), Al Bazzar dalam musnadnya (4/ 25/ 3107), Al Hakim (1: 545). Sanad hadits ini hasan sebagaimana dikatakan oleh Syaikh Al Albani dalam As Silsilah Ash Shahihah no. 227.
+<br>
+[12] HR. Ahmad (3: 406). Syaikh Syu’aib Al Arnauth mengatakan bahwa sanad hadits ini shahih sesuai syarat Bukhari Muslim. Lihat pula As Silsilah Ash Shahihah no. 2989.
+<br>
+[13] HR. Muslim no. 2692.
+<br>
+[14] HR. An Nasai Al Kubra 6: 10.
+<br>
+[15] HR. Bukhari no. 3293 dan Muslim no. 2691.
+<br>
+[16] HR. Muslim no. 2726.
+<br>
+[17] HR. Ibnu Majah no. 925 dan Ahmad 6: 305, 322. Al Hafizh Abu Thohir mengatakan bahwa hadits ini shahih.
+<br>
+[18] HR. Bukhari no. 6307 dan Muslim no. 2702.
+</p>
 
 Sumber https://rumaysho.com/1636-bacaan-dzikir-pagi.html
