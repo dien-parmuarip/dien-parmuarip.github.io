@@ -10,9 +10,9 @@ date: 2020-10-17
   الحمد لله والصلاة والسلام على رسول اللَّهُ وعلى آله وصحبه أجمعين
 </div>
 
-Blog ini adalah catatan pribadi yang saya tulis selama mengikuti kelas [HSI (Halaqah Sisilah Ilmiyyah)](https://edu.hsi.id) oleh Ustadz [Dr. Abdullah Roy, M.A.](https://abdullahroy.com) حفظه لله sebagai bagian dari angkatan HSI 222 tahun 2022.
+Saya, Lutfi Abu Naya, seorang *thalibul 'ilmi* yang sedang berusaha mempelajari ilmu agama Islam yang mulia.
 
-Sebagai seorang yang sedang berusaha menjadi *thalabul ilmi* yang menjalankan sunnah Rasulullah ﷺ, ikhtiyar saya adalah dengan menulisnya, seperti yang Beliau ﷺ sabdakan,
+Blog ini berisi catatan-catatan saya selama proses belajar, yang juga berusaha menjalankan sunnah Rasulullah ﷺ, maka ikhtiyar saya adalah dengan menulisnya, seperti yang Beliau ﷺ sabdakan,
 <div class="dalil">
   قَيِّدُوا الْعِلْمَ بِالْكِتَابِ
   <p>
@@ -20,14 +20,11 @@ Sebagai seorang yang sedang berusaha menjadi *thalabul ilmi* yang menjalankan su
   </p>
 </div>
 
-<!-- Alhamdulillah, segala puji bagi Allah yang atas ijin Nya kita bisa dengan mudah mencatat dan mengulang-ulang materi yang sudah diberikan melalui berbagai teknologi yang kita rasakan saat ini.  -->
-
-Insyaallah, saya mencoba menulis catatan ini selengkap-lengkapnya, kata per kata, sesuai dengan apa yang beliau, Ustadz Abdullah Roy حفظه لله تعالى, sampaikan, karena saya، yang orang awam ini, bisa salah dalam memaknai apa yang beliau حفظه لله تعالى sampaikan jika hanya saya tulis sebagai rangkuman.
-
-<!-- Mohon maaf sekiranya ada tulisan yang tidak sesuai dengan apa yang beliau, Ustadz Abdullah Roy حفظه لله تعالى, sampaikan dalam audio (yang juga saya lampiran disetiap postnya), yang itu adalah murni kesalahan saya dalam menulisnya. -->
+Insya Allah, dengan mencatat ini, saya bisa lebih mudah untuk me-*murajaah* kembali setiap materi-materi yang sudah pernah saya terima.
 
 Semoga kita semua selalu diberikan kemudahan dan keistiqomahan oleh Allah untuk bisa terus mempelajari agama kita ini, agama Islam yang mulia, satu-satunya agama yang diridhoi Nya.
 
 <div class="dalil">
   والسلام عليكم ورحمة اللّه وبركاته
 </div>
+
