@@ -11,7 +11,7 @@ date: 2020-10-17
 
 Ini adalah catatan pribadi yang saya tulis selama mengikuti kelas [HSI (Halaqah Sisilah Ilmiyyah)](https://edu.hsi.id) oleh Ustadz [Dr. Abdullah Roy](https://abdullahroy.com) حفظه لله sebagai bagian dari angkatan 222 tahun 2022.
 
-Insyaallah, saya mencoba menulis catatan ini selengkap-lengkapnya, kata per kata, sesuai dengan apa yang beliau, Ustadz Abdullah Roy حفظه لله, sampaikan, karena saya, yang orang awam ini, bisa salah dalam memaknai apa yang beliau sampaikan, jika hanya saya tulis sebagai rangkuman.
+Insyaallah, saya mencoba menulis catatan ini selengkap-lengkapnya, kata per kata, sesuai dengan apa yang beliau, Ustadz Abdullah Roy حفظه لله, sampaikan, karena bisa jadi saya salah dalam memaknai apa yang beliau sampaikan jika hanya saya tulis sebagai rngkuman.
 
 Semoga kita semua selalu diberikan kemudahan dan keistiqomahan oleh Allah untuk bisa terus mempelajari agama kita ini, agama Islam yang mulia, satu-satunya agama yang diridhoi Nya.
 
@@ -83,14 +83,14 @@ Semoga kita semua selalu diberikan kemudahan dan keistiqomahan oleh Allah untuk 
 <details>
   <summary><b>SILSILAH 4 - MENGENAL AGAMA ISLAM</b></summary>
   <p>
-    <a href="/hsi/s4/h1">H1 - Pengertian Islam]</a><br>
-    <a href="/hsi/s4/h2">H2 - Agama Para Nabi Adalah Islam]</a><br>
-    <a href="/hsi/s4/h3">H3 - Yang Membedakan Di Antara Para Nabi]</a><br>
-    <a href="/hsi/s4/h4">H4 - Keutamaan Islam Yang Dibawa Oleh Nabi Muhammad ﷺ]</a><br>
-    <a href="/hsi/s4/h5">H5 - Tingkatan-tingkatan Di Dalam Islam]</a><br>
-    <a href="/hsi/s4/h6">H6 - Rukun Islam]</a><br>
-    <a href="/hsi/s4/h7">H7 - Rukun Iman]</a><br>
-    <a href="/hsi/s4/h8">H8 - Ihsan Dan Rukunnya]</a><br>
+    <a href="/hsi/s4/h1">H1 - Pengertian Islam</a><br>
+    <a href="/hsi/s4/h2">H2 - Agama Para Nabi Adalah Islam</a><br>
+    <a href="/hsi/s4/h3">H3 - Yang Membedakan Di Antara Para Nabi</a><br>
+    <a href="/hsi/s4/h4">H4 - Keutamaan Islam Yang Dibawa Oleh Nabi Muhammad ﷺ</a><br>
+    <a href="/hsi/s4/h5">H5 - Tingkatan-tingkatan Di Dalam Islam</a><br>
+    <a href="/hsi/s4/h6">H6 - Rukun Islam</a><br>
+    <a href="/hsi/s4/h7">H7 - Rukun Iman</a><br>
+    <a href="/hsi/s4/h8">H8 - Ihsan Dan Rukunnya</a><br>
   </p>
 </details>
 
