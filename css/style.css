@@ -576,7 +576,7 @@ body {
   }
 }
 .max-width {
-  max-width: 40rem;
+  max-width: 50rem;
 }
 @media (max-width: 480px) {
   .px3 {
@@ -1673,4 +1673,8 @@ audio {
 }
 .signature {
   text-align: center !important;
+}
+details p {
+  text-align: left !important;
+  margin: 0 0 20px 13px;
 }
