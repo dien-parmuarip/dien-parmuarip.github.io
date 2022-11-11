@@ -59,7 +59,7 @@ Semoga kita semua selalu diberikan kemudahan dan keistiqomahan oleh Allah untuk 
     <a href="/hsi/s2/h3">H3 - Mengenal Allah Subhanahu wa Taala Sebagai Pemberi Rezeki</a><br>
     <a href="/hsi/s2/h4">H4 - Mengenal Allah Subhanahu wa Taala Sebagai Pengatur Alam Semesta</a><br>
     <a href="/hsi/s2/h5">H5 - Mengenal Allah Subhanahu wa Taala Sebagai Satu-Satunya Dzat Yang Berhak Disembah</a><br>
-    <a href="/hsi/s2/h6">H6 - Keyakinan Bahwa Allah Sebagai Pencipta, Pemberi Rezeki dan Pengatur Alam Semesta Tidaklah Cukup Untuk Memasukkan Seseorang Ke Dalam Agama Islam</a><br>
+    <a href="/hsi/s2/h6">H6 - Keyakinan Yang Tidaklah Cukup Untuk Memasukkan Seseorang Ke Dalam Agama Islam</a><br>
     <a href="/hsi/s2/h7">H7 - Pengertian Ibadah dan Macam-Macamnya</a><br>
     <a href="/hsi/s2/h8">H8 - Di Antara Kesyirikan Musyrikin Quraisy</a><br>
     <a href="/hsi/s2/h9">H9 - Mengenal Allah Subhanahu wa Taala Dengan MakhlukNya</a><br>
